@@ -1,5 +1,9 @@
-.body{
+html{
+overflow-y: scroll;
+}
+body{
      overflow-x:  hidden;
+     margin: 0;
 }
 .animation{
     transition: 0.2s;
